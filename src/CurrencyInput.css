@@ -1,0 +1,24 @@
+.wrapper {
+  background: #fff;
+  display: grid;
+  grid-template-columns: 100px 80px;
+  border-radius: 14px;
+  width: 190px;
+  margin: 21px 0;
+}
+
+input,
+select {
+  color: #333;
+  width: 90px;
+}
+
+input {
+  padding-left: 10px;
+  font-size: 18px;
+}
+
+select {
+  padding: 15px;
+  font-size: 15px;
+}

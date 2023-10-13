@@ -1,0 +1,32 @@
+body {
+  background-color: white;
+  padding: 50px;
+  margin-left: 100px;
+}
+
+h1,
+p {
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.oneCurrencyText {
+  color: #70757a;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 26px;
+}
+
+.rateText {
+  color: #202124;
+  font-family: 'Lucida Sans';
+  margin-bottom: 0;
+  font-size: 36px;
+  font-weight: normal;
+}
+
+.date {
+  color: #70757a;
+  margin-bottom: 16px;
+  font-size: 22px;
+}
